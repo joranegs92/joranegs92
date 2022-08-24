@@ -42,10 +42,10 @@ to Markdown converter
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
-<img src="https://img.shields.io/badge/java-red?style=flat-square&logo=#6DB33F&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Vue-#4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JPA-white?style=flat-square&logo=Alpine.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/jQuery-#0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/java-red?style=flat-square&logo=#6DB33F&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/Vue-#4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/JPA-white?style=flat-square&logo=Alpine.js&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/jQuery-#0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a> &nbsp </p>
 
