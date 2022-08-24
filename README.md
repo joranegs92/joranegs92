@@ -2,7 +2,7 @@
 
 <!--
 **joranegs92/joranegs92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -32,5 +32,5 @@ to Markdown converter
 <img src="https://img.shields.io/badge/java-red?style=flat-square&logo=#6DB33F&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue-#4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JPA-white?style=flat-square&logo=JPA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JPA-white?style=flat-square&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
