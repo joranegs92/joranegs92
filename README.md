@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jo%20Heonsu&fontSize=90" />
 ## Tech
-
+if you want to contact me -> <img src="https://joranegs92@gmail.com/badge/email-white?style=flat-square&logo=Gmail&logoColor=white"/></a>
 Dillinger uses a number of open source projects to work properly:
 
 - [AngularJS] - HTML enhanced for web apps!
