@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Tech
 if you want to contact me -> joranegs92@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/joranegs92)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joranegs92)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
