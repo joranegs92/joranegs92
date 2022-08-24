@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jo%20Heonsu&fontSize=90" />
 ## Tech
 if you want to contact me -> joranegs92@gmail.com
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=(https://github.com/joranegs92))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/joranegs92)](https://github.com/anuraghazra/github-readme-stats)
 
 Dillinger uses a number of open source projects to work properly:
 
