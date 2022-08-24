@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jo%20Heonsu&fontSize=90" />
-## Tech
-<h3 align="center"><b>😄if you want to contact me -> joranegs92@gmail.com</b></h3>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joranegs92)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joranegs92)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -41,5 +33,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jQuery-#0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>  </p>
+
+
+<h3 align="center"><b>😄if you want to contact me -> joranegs92@gmail.com</b></h3>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joranegs92)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joranegs92)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
