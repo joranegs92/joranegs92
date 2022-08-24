@@ -25,16 +25,6 @@ if you want to contact me -> joranegs92@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/joranegs92)](https://github.com/anuraghazra/github-readme-stats)
 Dillinger uses a number of open source projects to work properly:
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
