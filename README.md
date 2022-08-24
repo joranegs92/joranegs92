@@ -20,7 +20,7 @@ if you want to contact me -> joranegs92@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joranegs92)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joranegs92)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/joranegs92)](https://github.com/anuraghazra/github-readme-stats)
 Dillinger uses a number of open source projects to work properly:
